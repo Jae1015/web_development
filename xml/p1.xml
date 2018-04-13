@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<article>
+	<title>SImple xml</title>
+	<date>APril 12,2018</date>
+	<author>
+	<fname>Jaspreet</fname>
+	<lname>Kaur</lname>		
+	</author>
+	<summary>XML is pretty easy</summary>
+</article>
